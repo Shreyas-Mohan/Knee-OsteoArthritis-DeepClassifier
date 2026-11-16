@@ -53,6 +53,22 @@ env/
 .DS_Store
 Thumbs.db
 
-# Output PDFs
+# Output PDFs & Logs
 *.pdf
-logs-shreyas-mohan-aip-project-main-app.py-2026-04-06T09_04_03.790Z.txt
+logs*.txt
+dip_project_upgrades.md
+presentation_content.md
+
+# Slide Generation Scripts & Presentation Deliverables
+slide_previews/
+*.pptx
+Knee_OA_DIP_Presentation.pptx
+build_all_13_slides.py
+compile_pptx.py
+gen_slides_*.py
+make_slides_*.py
+generate_deck.py
+slide_framework.py
+presentation_*.md
+test_*.png
+STUDY_REPORT_KNEE_OA_DIP.md
